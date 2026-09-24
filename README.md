@@ -10,12 +10,12 @@ I'm a backend engineer and Linux enthusiast, primarily working in the .NET ecosy
 - Distributed systems and building for scale
 - Databases, caching, and message brokers
 - Linux, containers, and system optimization
-- TypeScript & React on the front end
+- TypeScript & React on the frontend
 ```
 
 ### Technical YouTube
 
-I create videos on system design and .NET. I enjoy teaching and making complex technical ideas simple and easy to digest.
+I create videos on system design, linux and .NET. I enjoy teaching and making complex technical ideas simple and easy to digest.
 
 [YouTube](https://www.youtube.com/@euglihon)
 
