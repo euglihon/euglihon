@@ -4,12 +4,14 @@ I'm a backend engineer and Linux enthusiast, primarily working in the .NET ecosy
 
 ### Engineering Focus
 
+```text
 - C# & .NET ecosystem
 - Software engineering and architecture
 - Distributed systems and building for scale
 - Databases, caching, and message brokers
 - Linux, containers, and system optimization
 - TypeScript & React on the front end
+```
 
 ### Technical YouTube
 
