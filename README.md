@@ -9,7 +9,7 @@ I'm a backend engineer and Linux enthusiast, primarily working in the .NET ecosy
 - Distributed systems and databases
 - Linux, containers, and platform work
 
-### YouTube
+### Technical YouTube
 
 I create videos on system design, Linux, and .NET.
 I enjoy teaching and making complex ideas easy to digest.
